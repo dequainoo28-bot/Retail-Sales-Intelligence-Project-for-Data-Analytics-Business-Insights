@@ -231,7 +231,7 @@ This project reflects my competence as a data analyst capable of delivering clea
 
 ⚙ Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-For cleaning, transformations, and visual EDA.
+For cleaning, transformations.
 
 ⚙ Excel
 
