@@ -1,5 +1,4 @@
-# Retail-Sales-Intelligence-Project-for-Data-Analytics-Business-Insights
-A  retail sales analytics project involving data cleaning, visualization, and storytelling. Covers sales trends, regional performance, product profitability, and seasonal behavior. The project integrates MySQL data extraction, Python analysis, and a professional report summarizing insights and strategy recommendations.
+# Retail-Sales-Intelligence-Project-for-Data-Analytics-Business-Insights.
 
 📌 Project Overview
 This project showcases my complete end-to-end data analytics process using a real-world sales dataset. I worked through every stage manually — beginning from the raw, unprocessed data and ending with a fully interactive analytics dashboard.
