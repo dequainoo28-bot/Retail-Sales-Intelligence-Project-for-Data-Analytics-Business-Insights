@@ -220,7 +220,6 @@ I successfully showed skills in:
 
 * Data cleaning
 * Data transformation
-* Exploratory data analysis
 * Business insight generation
 * Dashboard development
 * Professional documentation
